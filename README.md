@@ -13,6 +13,6 @@ Most of my work lives in private repositories pending paper acceptance, which wi
   - 1 Springer book chapter, providing details of an ablation study performed to assess the variation in output quality of the self-supervised traversability system described above when using different proprioceptive signals to generate the pseudo ground-truth masks.
   - 3 Springer book chapters (as co-author) on topics such as mobile apparatus for multi-modal dataset collections, a comparative study of different LiDAR-based odometry estimation methods with two different LiDAR sensors, especially on outdoor settings, and a comparative study between state-of-the-art, deep learning segmentation methods in natural settings, as well as the fine-tuning of the most promising one to solve some of the encountered issues and increase its performance in these settings.
 
-### Preview of the self-supervised traversability estimation system
+### Preview of the self-supervised traversability estimation system (ICARSC accepted paper)
 
 [![YouTube](http://i.ytimg.com/vi/pCfJkjTjWHM/hqdefault.jpg)](https://www.youtube.com/watch?v=pCfJkjTjWHM)
